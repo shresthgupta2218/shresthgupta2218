@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=30&duration=4000&pause=100&color=F79CD0&center=true&vCenter=true&random=false&width=435&lines=Hello+Folks+!;I'm+shresth+gupta;crafting+codes+!)](https://git.io/typing-svg)
 
 <!--
 **shresthgupta2218/shresthgupta2218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
