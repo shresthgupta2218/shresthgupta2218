@@ -3,7 +3,7 @@
 
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shresthgupta2218.shresthgupta2218" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsshresth.itsshresth" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=30&duration=4000&pause=100&color=F79CD0&center=true&vCenter=true&random=false&width=435&lines=Hello+Folks+!;I'm+shresth+gupta;crafting+codes+!" />
@@ -16,9 +16,9 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shresthgupta2218&show_icons=true&theme=midnight-purple"><img src="https://github-readme-streak-stats.herokuapp.com?user=shresthgupta2218&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itsshresth &show_icons=true&theme=midnight-purple"><img src="https://github-readme-streak-stats.herokuapp.com?user=itsshresth&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shresthgupta2218&layout=compact&theme=midnight-purple">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itsshresth&layout=compact&theme=midnight-purple">
 <!--<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Athena-OS&repo=athena-nix&theme=midnight-purple">--!>
 
 <p align="center">
@@ -31,7 +31,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shresthgupta2218/shresthgupta2218/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/shresthgupta2218/shresthgupta2218/output/github-contribution-grid-snake.svg" />
 </picture>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shresthgupta2218&theme=modern-lilac" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsshresth&theme=modern-lilac" width="100%">
 
   
 
